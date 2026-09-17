@@ -1,5 +1,5 @@
 # Hi there, I'm Nguyen Manh Hoang Quan 👋
-### 🚀 3rd-year IT Student @ Thang Long University | Junior Software Engineer
+### 🚀 IT Student @ Thang Long University | Junior Software Engineer
 
 Passionate about full-stack web development with **React** and **Java Spring Boot**, building clean RESTful APIs, and exploring IoT systems.
 
