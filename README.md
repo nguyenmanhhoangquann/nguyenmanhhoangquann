@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- SLICE HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:4A00E0,100:8E2DE2&height=200&section=header&text=Nguyen%20Manh%20Hoang%20Quan&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Information%20Technology%20%40%20Thang%20Long%20University&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
+<!-- ANIMATED DEV WORKSPACE BANNER -->
+<img src="https://raw.githubusercontent.com/nguyenmanhhoangquann/nguyenmanhhoangquann/main/dev-banner.svg" width="100%"/>
 
 <br/>
 
