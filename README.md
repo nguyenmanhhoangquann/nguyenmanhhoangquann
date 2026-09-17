@@ -12,8 +12,8 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hoangquan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoangquan12012006)
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenmanhhoangquan.vn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyenmanhhoangquann)
 
@@ -34,7 +34,7 @@
 - 🎓 Sinh viên ngành **Công nghệ Thông tin** tại **Đại học Thăng Long (Hà Nội)**.
 - 💻 Đam mê xây dựng các ứng dụng web thực tế: **Frontend (React)** và **Backend (Java Spring Boot)**.
 - 🎯 Mục tiêu hiện tại: Tìm kiếm vị trí **Intern / Thực tập sinh** để cọ xát và học hỏi quy trình làm việc thực tế trong doanh nghiệp.
-- 🚀 Sở thích: Tìm hiểu kiến trúc phần mềm, RESTful API và khám phá ứng dụng IoT.
+- 🚀 Sở thích: Tìm hiểu kiến trúc phần mềm, RESTful API và khám phá công nghệ web.
 
 ---
 
