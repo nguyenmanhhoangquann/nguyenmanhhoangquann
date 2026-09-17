@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED DEV WORKSPACE BANNER -->
-<img src="https://raw.githubusercontent.com/nguyenmanhhoangquann/nguyenmanhhoangquann/main/dev-banner.svg" width="100%"/>
+<!-- ANIMATED BANNER -->
+<img src="https://raw.githubusercontent.com/nguyenmanhhoangquann/nguyenmanhhoangquann/main/dev-banner.gif" width="100%"/>
 
 <br/>
 
