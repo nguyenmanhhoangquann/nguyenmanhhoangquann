@@ -3,6 +3,12 @@
 <!-- ANIMATED BANNER -->
 <img src="https://raw.githubusercontent.com/nguyenmanhhoangquann/nguyenmanhhoangquann/main/dev-banner.gif" width="100%"/>
 
+<br/><br/>
+
+<!-- HEADER TITLE -->
+<h1 align="center">Hi there 👋, I'm Hoang Quan</h1>
+<h3 align="center">🚀 Web Developer | Software Developer</h3>
+
 <br/>
 
 <!-- SOCIAL BADGES -->
